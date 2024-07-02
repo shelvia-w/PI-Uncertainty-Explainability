@@ -7,11 +7,11 @@ This repository contains:
 - Explainability (To be uploaded) --> Analysis of using PI measures for generating saliency maps.
 
 ### Uncertainty
-- A. PMI Estimators.ipynb : Comparison of different PMI estimators
-- B. PVI Estimators.ipynb : Comparison of different PVI estimators
-- C. PSI Estimators.ipynb : Comparison of different PSI estimators
-- 1. Filtering Error.ipynb : Comparison of failure prediction using different PI measures
-- 2. Reliability Diagrams.ipynb : Plots of reliability diagrams for different PI measures
-- 3. Calibration Error.ipynb : Comparison of confidence calibration using different PI measures
-- 4. Selective Prediction.ipynb: Comparison of selective prediction using different PI measures
-- 5. UMAP.ipynb: UMAP plots for different PI measures (for sample-wise margin comparison)
+- PMI Estimators.ipynb : Comparison of different PMI estimators
+- PVI Estimators.ipynb : Comparison of different PVI estimators
+- PSI Estimators.ipynb : Comparison of different PSI estimators
+- Filtering Error.ipynb : Comparison of failure prediction using different PI measures
+- Reliability Diagrams.ipynb : Plots of reliability diagrams for different PI measures
+- Calibration Error.ipynb : Comparison of confidence calibration using different PI measures
+- Selective Prediction.ipynb: Comparison of selective prediction using different PI measures
+- UMAP.ipynb: UMAP plots for different PI measures (for sample-wise margin comparison)
